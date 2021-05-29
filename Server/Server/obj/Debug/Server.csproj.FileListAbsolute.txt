@@ -1,0 +1,9 @@
+E:\Git_Repositories\Freelancing\TCPDataTransfer_Client_Server\Server\Server\bin\Debug\Server.exe.config
+E:\Git_Repositories\Freelancing\TCPDataTransfer_Client_Server\Server\Server\bin\Debug\Server.exe
+E:\Git_Repositories\Freelancing\TCPDataTransfer_Client_Server\Server\Server\bin\Debug\Server.pdb
+E:\Git_Repositories\Freelancing\TCPDataTransfer_Client_Server\Server\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+E:\Git_Repositories\Freelancing\TCPDataTransfer_Client_Server\Server\Server\obj\Debug\Server.Form1.resources
+E:\Git_Repositories\Freelancing\TCPDataTransfer_Client_Server\Server\Server\obj\Debug\Server.Properties.Resources.resources
+E:\Git_Repositories\Freelancing\TCPDataTransfer_Client_Server\Server\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+E:\Git_Repositories\Freelancing\TCPDataTransfer_Client_Server\Server\Server\obj\Debug\Server.exe
+E:\Git_Repositories\Freelancing\TCPDataTransfer_Client_Server\Server\Server\obj\Debug\Server.pdb
